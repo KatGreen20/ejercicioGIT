@@ -1,2 +1,2 @@
 # ejercicioGIT 
-## Estructura de un proyecto 
+Estructura de un proyecto 
