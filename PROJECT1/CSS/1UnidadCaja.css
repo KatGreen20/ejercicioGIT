@@ -1,5 +1,5 @@
 div{
-    height: 100px;
+    height: auto; /*auto para la altura segun el contenido*/
     width: 100px;
     background: cadetblue;
     border: black 1px solid;
@@ -13,8 +13,8 @@ div{
 }
 
 #caja2{
-    width: 100cm;
-    /*width: 100vh;*/
+    /* width: 100cm; */
+    width: 100vw; /*view height*/
 }
 
 #cajacontenedora, #caja3{
