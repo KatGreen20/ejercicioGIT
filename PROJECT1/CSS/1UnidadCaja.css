@@ -1,0 +1,28 @@
+div{
+    height: auto; /*auto para la altura segun el contenido*/
+    width: 100px;
+    background: cadetblue;
+    border: black 1px solid;
+    font-size: 20px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+#caja1{
+    width: 100%;
+}
+
+#caja2{
+    /* width: 100cm; */
+    width: 100vw; /*view height*/
+}
+
+#cajacontenedora, #caja3{
+    width: 100px;
+    margin: 0px;
+}
+
+#caja3{
+    width: 88%;
+    background: cyan;
+}
